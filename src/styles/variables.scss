@@ -1,0 +1,93 @@
+:root {
+  --primary-50: #e7efe4;
+  --primary-100: #c3d6bb;
+  --primary-200: #9cbb8e;
+  --primary-300: #749f61;
+  --primary-400: #568b3f;
+  --primary-500: #38761d;
+  --primary-600: #326e1a;
+  --primary-700: #2b6315;
+  --primary-800: #245911;
+  --primary-900: #17460a;
+  --primary-a100: #94ff7d;
+  --primary-a200: #6aff4a;
+  --primary-a400: #40ff17;
+  --primary-a700: #2dfc00;
+
+  --accent-50: #eae2e6;
+  --accent-100: #c9b8c1;
+  --accent-200: #a68898;
+  --accent-300: #82586e;
+  --accent-400: #67354f;
+  --accent-500: #4c1130;
+  --accent-600: #450f2b;
+  --accent-700: #3c0c24;
+  --accent-800: #330a1e;
+  --accent-900: #240513;
+  --accent-a100: #ff609c;
+  --accent-a200: #ff2d7c;
+  --accent-a400: #f9005e;
+  --accent-a700: #e00054;
+
+  --warn-50: #fce7eb;
+  --warn-100: #f8c3cd;
+  --warn-200: #f39bab;
+  --warn-300: #ee7389;
+  --warn-400: #ea5570;
+  --warn-500: #e63757;
+  --warn-600: #e3314f;
+  --warn-700: #df2a46;
+  --warn-800: #db233c;
+  --warn-900: #d5162c;
+  --warn-a100: #ffffff;
+  --warn-a200: #ffd3d7;
+  --warn-a400: #ffa0a8;
+  --warn-a700: #ff8691;
+
+  --contrast-50: rgba(black, 0.87);
+  --contrast-100: rgba(black, 0.87);
+  --contrast-200: rgba(black, 0.87);
+  --contrast-300: rgba(black, 0.87);
+  --contrast-400: rgba(black, 0.87);
+  --contrast-500: rgba(black, 0.87);
+  --contrast-600: white;
+  --contrast-700: white;
+  --contrast-800: white;
+  --contrast-900: white;
+  --contrast-a100: rgba(black, 0.87);
+  --contrast-a200: rgba(black, 0.87);
+  --contrast-a400: rgba(black, 0.87);
+  --contrast-a700: rgba(black, 0.87);
+
+  .dark {
+    --primary-50: #f1eff8;
+    --primary-100: #ddd8ed;
+    --primary-200: #c7bee1;
+    --primary-300: #b0a3d5;
+    --primary-400: #9f90cc;
+    --primary-500: #8e7cc3;
+    --primary-600: #8674bd;
+    --primary-700: #7b69b5;
+    --primary-800: #715fae;
+    --primary-900: #5f4ca1;
+    --primary-a100: #fefeff;
+    --primary-a200: #d6cbff;
+    --primary-a400: #ae98ff;
+    --primary-a700: #9a7fff;
+
+    --accent-50: #fef6ed;
+    --accent-100: #fce8d3;
+    --accent-200: #fbd9b5;
+    --accent-300: #f9c997;
+    --accent-400: #f7be81;
+    --accent-500: #f6b26b;
+    --accent-600: #f5ab63;
+    --accent-700: #f3a258;
+    --accent-800: #f2994e;
+    --accent-900: #ef8a3c;
+    --accent-a100: #ffffff;
+    --accent-a200: #ffffff;
+    --accent-a400: #ffe7d5;
+    --accent-a700: #ffd8bc;
+  }
+}
