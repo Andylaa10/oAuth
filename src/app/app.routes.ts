@@ -7,4 +7,11 @@ export const routes: Routes = [
     loadComponent: () =>
       import('./pages/home/home.component').then(c => c.HomeComponent),
   },
+  {
+    path: 'callback',
+    loadComponent: () =>
+      import('./pages/callback/callback.component').then(
+        c => c.CallbackComponent
+      ),
+  },
 ];
